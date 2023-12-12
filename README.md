@@ -2,7 +2,7 @@
 🚀 I'm a mobile application developer based in Sargodha, Pakistan, passionate about exploring tech, design, and travel.
 
 🌐 Interests
-👨‍💻 Tech Explorer: Web and Mobile Development, AI/ML, Open Source
+👨‍💻 Tech Explorer: Web and Mobile Development, Open Source
 🎨 Design Enthusiast: Figma, Adobe Creative Suite
 ✈️ World Traveler: Exploring cultures and cuisines
 🌍 Connect with Me

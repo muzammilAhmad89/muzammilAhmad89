@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name]
+👋 Hi there! I'm Muzammil
 🚀 I'm an application developer based in Sargodha, Pakistan, passionate about exploring tech, design, and travel.
 
 🌐 Interests

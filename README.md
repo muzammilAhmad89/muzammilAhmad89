@@ -1,5 +1,5 @@
 👋 Hi there! I'm Muzammil
-🚀 I'm an application developer based in Sargodha, Pakistan, passionate about exploring tech, design, and travel.
+🚀 I'm a mobile application developer based in Sargodha, Pakistan, passionate about exploring tech, design, and travel.
 
 🌐 Interests
 👨‍💻 Tech Explorer: Web and Mobile Development, AI/ML, Open Source
